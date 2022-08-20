@@ -1,6 +1,7 @@
 # Splunk-Project
 Utilize your Splunk skills to design a powerful monitoring solution to protect Vandaly from security attacks.
 
+MONITORING SPLUNK
 
 As the worldwide leader of importing and exporting, Vandalay Industries has been the target of many adversaries attempting to disrupt their online business. Recently, Vandaly has been experiencing DDOS attacks against their web servers.
 
