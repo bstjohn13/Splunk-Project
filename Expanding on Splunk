@@ -1,1 +1,11 @@
+What is Splunk?
 
+Splunk is a type of SIEM (Security Information and Event Management) A SIEM is a software that provides a 
+central pool of data from multiple sources, this data can be reviewed and queried by an analyst.
+
+There are three primary ways to use a SIEM
+Threat detection
+Investigation
+Time to respond
+
+There is alot of other useful ways to use Splunk other than what I have demonstrated here as well!
